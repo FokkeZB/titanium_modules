@@ -9,6 +9,12 @@ Provides a paint surface user interface view.
 To access this module from JavaScript, you would do the following:
 
 	var Paint = require('ti.paint');
+	
+## Alloy
+
+To use the module in Alloy, you would do the following:
+
+	<PaintView ns="require('ti.paint')" />
 
 ### Ti.Paint.createPaintView({...})
 
