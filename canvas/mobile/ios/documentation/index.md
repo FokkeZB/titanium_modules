@@ -12,6 +12,12 @@ started with using this module in your application.
 To access this module from JavaScript, you would do the following:
 
 	var Canvas = require('ti.canvas');
+	
+## Alloy
+
+To use the module in Alloy, you would do the following:
+
+	<View ns="require('ti.canvas')" />
 
 ## Methods
 
