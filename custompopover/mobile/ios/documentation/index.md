@@ -13,6 +13,12 @@ To access this module from JavaScript, you would do the following:
 
 The custompopover variable is a reference to the Module object.	
 
+## Alloy
+
+To use the module in Alloy, you would do the following:
+
+	<Popover ns="require('ti.custompopover')" />
+
 ## Methods
 
 ### createPopover
