@@ -15,6 +15,12 @@ To access this module from JavaScript, you would do the following:
 
 	var PageFlip = require('ti.pageflip');
 
+## Alloy
+
+To use the module in Alloy, you would do the following:
+
+	<View ns="require('ti.pageflip')" />
+
 ## Methods
 
 ### Ti.PageFlip.createView({...})
