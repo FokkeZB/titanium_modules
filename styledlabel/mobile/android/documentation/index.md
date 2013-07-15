@@ -15,6 +15,12 @@ To access this module from JavaScript, you would do the following:
 
 	var StyledLabel = require('ti.styledlabel');
 
+## Alloy
+
+To use the module in Alloy, you would do the following:
+
+	<Label ns="require('ti.styledlabel')" />
+
 ## Functions
 
 ### [Ti.StyledLabel.Label][] Ti.StyledLabel.createLabel({...})
